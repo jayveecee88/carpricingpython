@@ -64,8 +64,6 @@ To capture non-linear depreciation and simplify high-cardinality categorical var
 
 ![BMW Used Car Pricing EDA Dashboard](bmw_eda_dashboard.png)
 
-*(Upload `bmw_eda_dashboard.png` to the root of this repository to display the visual dashboard above.)*
-
 ---
 
 ## 📁 Repository Structure
